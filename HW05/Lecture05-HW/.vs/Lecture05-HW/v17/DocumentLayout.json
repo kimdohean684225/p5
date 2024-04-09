@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\9\\source\\repos\\Lecture05-HW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62889770-2A4F-4E33-94EF-718C2C85634D}|Lecture05-HW\\Lecture05-HW.vcxproj|C:\\Users\\9\\source\\repos\\Lecture05-HW\\Lecture05-HW\\Lecture05-HW.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62889770-2A4F-4E33-94EF-718C2C85634D}|Lecture05-HW\\Lecture05-HW.vcxproj|solutionrelative:Lecture05-HW\\Lecture05-HW.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lecture05-HW.cpp",
+              "DocumentMoniker": "C:\\Users\\9\\source\\repos\\Lecture05-HW\\Lecture05-HW\\Lecture05-HW.cpp",
+              "RelativeDocumentMoniker": "Lecture05-HW\\Lecture05-HW.cpp",
+              "ToolTip": "C:\\Users\\9\\source\\repos\\Lecture05-HW\\Lecture05-HW\\Lecture05-HW.cpp",
+              "RelativeToolTip": "Lecture05-HW\\Lecture05-HW.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-07T12:03:56.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
